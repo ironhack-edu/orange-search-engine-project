@@ -12,4 +12,6 @@ In this repo you will find:
 
 This project unises Normalize.css to reboot the default browsers' styles.
 
-**Do not share with students.**
+>
+>**Do not share with students.**
+>
